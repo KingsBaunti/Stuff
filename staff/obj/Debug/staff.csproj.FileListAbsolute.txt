@@ -1,0 +1,11 @@
+C:\c#\staff\bin\Debug\base.mdb
+C:\c#\staff\bin\Debug\staff.exe.config
+C:\c#\staff\bin\Debug\staff.exe
+C:\c#\staff\bin\Debug\staff.pdb
+C:\c#\staff\obj\Debug\staff.csproj.AssemblyReference.cache
+C:\c#\staff\obj\Debug\staff.editBase.resources
+C:\c#\staff\obj\Debug\staff.Properties.Resources.resources
+C:\c#\staff\obj\Debug\staff.csproj.GenerateResource.cache
+C:\c#\staff\obj\Debug\staff.csproj.CoreCompileInputs.cache
+C:\c#\staff\obj\Debug\staff.exe
+C:\c#\staff\obj\Debug\staff.pdb
